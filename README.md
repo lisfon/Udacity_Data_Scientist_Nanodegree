@@ -14,7 +14,7 @@ The code should run with no issues using Python versions 3.*.
 
 ## Project Motivation<a name="motivation"></a>
 
-With this project, which is part of the Data Scientist Nanodegree Program of Udacity, I aimed at analysing the development of the programming industry over the past 5 years by comparing the results of the Stack Overflow surveys of 2015 and 2020.
+With this project, which is part of the Data Scientist Nanodegree Program of Udacity, I aimed at analysing the development of the programming industry over the past 5 years by comparing the results of the Stack Overflow Developer Surveys of 2015 and 2020.
 
 The focus of my analysis are following aspects:
 
@@ -32,4 +32,4 @@ The main findings of my analysis can be viewed [here](https://lisa-fontana.mediu
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-Credit for the data used goes to Stack Overflow.
+Credit for the data used goes to Stack Overflow. The data sets used can be found [here](https://insights.stackoverflow.com/survey).
