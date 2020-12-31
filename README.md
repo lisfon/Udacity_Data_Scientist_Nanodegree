@@ -26,10 +26,9 @@ The focus of my analysis are following aspects:
 
 There is a Python notebook including comments that summarizes the analysis performed:
 
-
 ## Results<a name="results"></a>
 
-The main findings of the code can viewed in this blog post:
+The main findings of my analysis can be viewed [here](https://lisa-fontana.medium.com/how-fast-is-the-programming-world-changing-b7dd79d5f25a).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
