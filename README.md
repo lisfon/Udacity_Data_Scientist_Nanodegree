@@ -24,7 +24,7 @@ The focus of my analysis are following aspects:
 
 ## File Descriptions <a name="files"></a>
 
-In this repository there is a Python notebook including comments that summarizes the analysis performed.
+In this repository there is a Python notebook including comments that summarize the analysis performed.
 
 ## Results<a name="results"></a>
 
