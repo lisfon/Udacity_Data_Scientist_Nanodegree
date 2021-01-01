@@ -16,7 +16,7 @@ The code should run with no issues using Python versions 3.*.
 
 With this project, which is part of the Data Scientist Nanodegree Program of Udacity, I aimed at analysing the development of the programming industry over the past 5 years by comparing the results of the Stack Overflow Developer Surveys of 2015 and 2020.
 
-The focus of my analysis are following questions:
+Following questions will be answered: 
 
 1. Is the programming industry showing more gender diversity in 2020 compared to 2015?
 2. Which programming languages are most common in 2020 and are they the same ones as in 2015?
